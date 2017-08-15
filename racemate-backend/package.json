@@ -1,0 +1,24 @@
+{
+  "name": "racemate-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkol36/racemate-backend.git"
+  },
+  "author": "Jon Kolman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkol36/racemate-backend/issues"
+  },
+  "homepage": "https://github.com/jkol36/racemate-backend#readme",
+  "dependencies": {
+    "babel-plugin-transform-object-rest-spread": "^6.23.0",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-register": "^6.23.0"
+  }
+}
